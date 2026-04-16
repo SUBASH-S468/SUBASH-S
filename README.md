@@ -30,4 +30,4 @@
 
 ## 📫 Connect with me
 
-* LinkedIn: https://linkedin.com/in/your-link
+* LinkedIn: https://linkedin.com/in/subash-s-313b09397
