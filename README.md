@@ -12,13 +12,11 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-
+![Dart](https://img.shields.io/badge/Dart-blue)
 
 ---
 
-## ⚙️ Backend
 
-![Dart](https://img.shields.io/badge/Dart-blue)
 
 
 ---
